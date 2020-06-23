@@ -1,1 +1,3 @@
-ECHO bekapcsolva ...
+Joe
+Jim
+Mary
